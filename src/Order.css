@@ -1,0 +1,40 @@
+.order {
+    background-color: #fff9e9;
+    padding: 50px 0;
+    
+  }
+  
+  .order form {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-left: 70px;
+  }
+  
+  .order form label {
+    font-weight: bold;
+  }
+  
+  .order form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .order form button {
+    background-color: #333;
+    color: white;
+    width: 20%;
+  }
+  
+  .order form button:hover {
+    background-color: #6a6a6a;
+    cursor: pointer;
+  }
+
+  .oimg{
+    height: 470px;
+    width: 370px;
+    float: right;
+    margin-left: 180px;
+  }
+  

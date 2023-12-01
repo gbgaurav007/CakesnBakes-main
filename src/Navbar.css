@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+.navbar-logo {
+  margin-left: 20px;
+  margin-top: -20px;
+  margin-bottom: -10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 25px; 
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #ffee58;
+}
+
+.img{
+  height: 85px;
+  width: 100px;
+}
+
+.navbar h5{
+  color: white;
+  margin-top: -55px;
+  margin-left: 85px;
+  margin-bottom: 25px;
+}
+
+
